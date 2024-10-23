@@ -3,7 +3,7 @@ package com.training.example.JacocoExample;
 import static org.junit.Assert.*;
 
 import org.junit.Test;
-
+ 
 public class PalindromeTest {
 
 	@Test
